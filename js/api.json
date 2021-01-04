@@ -1,0 +1,521 @@
+[
+   {
+      "id": 1,
+      "poster": "./posters/1.png",
+      "titulo": "Cyberpunk 2077",
+      "desarrolladores": "CD Projekt",
+      "genero": "Rol de acción, disparos en primera persona",
+      "resumen": "Cyberpunk 2077 es un videojuego desarrollado y publicado por CD Projekt, que se lanzó para Microsoft Windows, PlayStation 4 y Xbox One el 10 de diciembre de 2020, y posteriormente en PlayStation 5, Xbox Series X|S y Google Stadia. Adaptado del juego de rol Cyberpunk 2020, se establece cincuenta y siete años más tarde en la ciudad distópica de Night City, California. Es un mundo abierto con seis distritos diferentes, con una perspectiva de primera persona y los jugadores asumen el papel del personaje personalizable llamado V, quienes pueden mejorar sus estadísticas con experiencia. V tiene un arsenal de armas y opciones para combate cuerpo a cuerpo, los cuales pueden ser modificados.",
+      "jugadores": "Un jugador",
+      "idiomas": "inglés, ruso, francés, italiano, alemán, árabe, checo, húngaro, japonés, coreano, polaco, portugués brasileño, chino simplificado, español latinoamericano, tailandés, chino tradicional, turco"
+   },
+   {
+      "id": 2,
+      "poster": "./posters/2.jpg",
+      "titulo": "The Last of Us II",
+      "desarrolladores": "Naughty Dog",
+      "genero": "Horror de supervivencia, Acción-aventura, Disparos en tercera persona",
+      "resumen": "The Last of Us Part II es un videojuego de acción-aventura y horror de supervivencia desarrollado por Naughty Dog, publicado por Sony en exclusiva para la PlayStation 4 el 19 de junio de 2020. El lanzamiento de esta secuela ha generado una enorme división en los fans de la saga, debido a la historia del videojuego. Ya que mientras unos consideran el título como una obra maestra, otros se refieren a él como un insulto a lo que fue su primera parte lanzada en el 2013 y como una obra decepcionante a nivel narrativo.",
+      "jugadores": "Un jugador",
+      "idiomas": "inglés, ruso, francés, alemán, español, italiano, polaco, portugués, turco, griego"
+   },   {
+      "id": 3,
+      "poster": "./posters/3.png",
+      "titulo": "Counter Strike Go",
+      "desarrolladores": "Valve",
+      "genero": "Disparos en primera persona, Acción",
+      "resumen": "Counter-Strike: Global Offensive (CS:GO) es un videojuego de disparos en primera persona desarrollado por Valve Corporation en cooperación con Hidden Path Entertainment, y es el cuarto juego de la saga Counter-Strike, sin contar Counter-Strike: Online. Fue lanzado como beta al mercado el 21 de agosto de 2012 para las plataformas de Microsoft Windows, Mac OS X y Xbox 360, mientras que sufrió un retraso en PlayStation 3. Posteriormente, la versión para Linux estuvo disponible al público el 22 de septiembre de 2014. Global Offensive dispuso de una beta accesible únicamente mediante invitación en Steam, en su momento la revista PC Gamer anunció que el videojuego sería lanzado oficialmente el 21 de agosto de 2012 a un precio de € 10,991​2​, aunque ahora es gratuito. Gracias a esto, su base de jugadores aumentó de 20 a 45 millones, haciendo que retomara su lugar dentro de los juegos más jugados de los últimos 10 años. ",
+      "jugadores": "Un Jugador / Multijugador",
+      "idiomas": "inglés, búlgaro, portugués brasileño, húngaro, danés, español, italiano, chino clásico, coreano, alemán, neerlandés, noruego, polaco, portugués, rumano, ruso, tailandés, turco, ucraniano, finés, francés, checo, , sueco, japonés, vietnamita, griego, chino simplificado"
+   },
+   {
+      "id": 4,
+      "poster": "./posters/4.jpg",
+      "titulo": "DOOM Eternal",
+      "desarrolladores": "Bethesda",
+      "genero": "Acción, disparos en primera persona",
+      "resumen": "Doom Eternal es un videojuego de acción y disparos en primera persona desarrollado por id Software y publicado por Bethesda Softworks.1​ Es el quinto título principal de la serie Doom y la secuela directa del juego estrenado en 2016.2​ El juego fue lanzado el 20 de marzo de 2020 para las plataformas PlayStation 4, Xbox One, Microsoft Windows, Stadia y Nintendo Switch3​, además de versiones planeadas para PlayStation 5 y Xbox Series X.",
+      "jugadores": "Un jugador / Multijugador",
+      "idiomas": "inglés, ruso, francés, italiano, alemán, árabe, checo, húngaro, japonés, coreano, polaco, portugués brasileño, chino simplificado, español latinoamericano, tailandés, chino tradicional, turco"
+   },
+   {
+      "id": 5,
+      "poster": "./posters/5.jpg",
+      "titulo": "Watch Dogs",
+      "desarrolladores": "Ubisoft",
+      "genero": "Mundo abierto, Sigilo, Acción, Aventura",
+      "resumen": "El juego empieza con el protagonista, un hacker británico llamado Aiden Pearce actuando junto a Damien Brenks, un colega suyo, robando dinero de las cuentas corrientes de los allí presentes hackeando la red local en un hotel llamado 'El Merlaut' . Pero cuando Aiden quiere marcharse, su socio, más ambicioso, quiere ir más allá, dando por casualidad en la misma red con una información valiosísima, un video encriptado que le da tiempo a robar pero que sin embargo les impide marcharse sin dejar rastro como habían hecho hasta entonces. Un tiempo después, ese video encriptado y que incluye a una de las más importantes personas de la ciudad cometiendo un terrible crimen, lleva al de momento desconocido protagonista del video a intentar asustar a Aiden (creyendo por error que él fue el hacker que robó ese video) para no hacerlo público, matando por accidente a su sobrina, con quien iba en el coche. Pasado un tiempo y con la ayuda de un asesino a sueldo, Aiden se adentra en una investigación personal para saber quien o quienes están detrás de la muerte de su sobrina, obsesionado con la venganza y habiéndose convertido en un justiciero urbano buscado por la policía, pese a los desesperados intentos de su hermana de intentar que lo olvide. La investigación le llevará al principal causante del accidente en el coche donde estaba con su sobrina, que le dará información importante sobre quien está de verdad detrás del asesinato y del video encriptado. Aiden pondrá todo sus recursos y conocimientos para desencriptarlo contando con la ayuda de una atractiva hacker llamada Clara pero topará con la oposición frontal de su antiguo colega hacker que quiere utilizar el video con fines terroristas y financieros. Aiden se verá de repente inmerso en un inmenso caos en el que a la vez que intenta seguir la pista que le llevará al asesino de su sobrina tiene que escapar con vida de aquellos a los que intenta desenmascarar y de paso enfrentarse con su antiguo colega que se convierte en otro enemigo igual o más peligroso. Todos ellos pondrán el ctOS y la policía a su servicio contra Aiden aunque este cuenta con grandes recursos propios para contrarrestarlos y muchas veces utilizarlos en su contra (y contra otros enemigos en su faceta de justiciero urbano, como traficantes de todo tipo de drogas o prostitutas). Mientras tanto, hackers más poderosos que todos los protagonistas y antagonistas de la historia vigilan todo lo que ocurre desde el más absoluto anonimato interviniendo solo cuando lo consideran imprescindible para su misteriosa causa.",
+      "jugadores": "Un jugador / Multijugador",
+      "idiomas": "inglés, ruso, francés, italiano, alemán, árabe, checo, húngaro, japonés, coreano, polaco, portugués brasileño, chino simplificado, español latinoamericano, tailandés, chino tradicional, turco"
+   },
+   {
+      "id": 6,
+      "poster": "./posters/6.jpg",
+      "titulo": "Fifa 21",
+      "desarrolladores": "Electronic Arts",
+      "genero": "Deportes",
+      "resumen": "FIFA 21 es un videojuego de simulación de fútbol del año 2020 disponible para Microsoft Windows, PlayStation 4, Xbox One y Nintendo Switch el 9 de octubre de 2020, y aparte es el primer videojuego de la serie FIFA para Google Stadia, PlayStation 5 y Xbox Series X|S. El juego es la 28.ª entrega de la serie de videojuegos de FIFA. El jugador Francés Kylian Mbappé fue elegido para ser la portada del FIFA 211​ y como embajadores estarán Trent Alexander-Arnold, Erling Braut Haaland y João Félix.2​",
+      "jugadores": "Un jugador / Multijugador Online y Local",
+      "idiomas": "inglés, español, arabe, Checo, Francés, Italiano, Neerlandés, Polaco, Portugués, Ruso."
+   },
+   {
+      "id": 7,
+      "poster": "./posters/13.jpg",
+      "titulo": "League of Legends",
+      "desarrolladores": "Riot Games",
+      "genero": "Multijugador de Arena de batalla en Línea, MOBA",
+      "resumen": "League of Legends es un juego de estrategia por equipos en el que dos equipos de cinco campeones se enfrentan para ver quién destruye antes la base del otro. Elige de entre un elenco de 140 campeones para realizar jugadas épicas, asesinar rivales y derribar torretas para alzarte con la victoria..",
+      "jugadores": "Multijugador",
+      "idiomas": "inglés, ruso, francés, italiano, alemán, árabe, checo, húngaro, japonés, coreano, polaco, portugués brasileño, chino simplificado, español latinoamericano, tailandés, chino tradicional, turco"
+   },
+   {
+      "id": 8,
+      "poster": "./posters/8.jpg",
+      "titulo": "Minecraft",
+      "desarrolladores": "Mojang",
+      "genero": "Aventura, Mundo abierto, SandBox",
+      "resumen": "Minecraft es un juego de mundo abierto, por lo que no posee un objetivo específico, permitiéndole al jugador una gran libertad en cuanto a la elección de su forma de jugar. A pesar de ello, el juego posee un sistema de logros.5​6​ El modo de juego predeterminado es en primera persona, aunque los jugadores tienen la posibilidad de cambiarlo a tercera persona.7​ El juego se centra en la colocación y destrucción de bloques, siendo que este se compone de objetos tridimensionales cúbicos, colocados sobre un patrón de rejilla fija. Estos cubos o bloques representan principalmente distintos elementos de la naturaleza, como tierra, piedra, minerales, troncos, entre otros.8​ Los jugadores son libres de desplazarse por su entorno y modificarlo mediante la creación, recolección y transporte de los bloques que componen al juego, los cuales solo pueden ser colocados respetando la rejilla fija del juego.8​9​Los jugadores crean «granjas» que son para conseguir un determinado material más fácil por ejemplo una granja de oro. En el juego se pueden encontrar estructuras especiales como aldeas, galerías mineras, templos marinos, pirámides y templos selváticos.",
+      "jugadores": "Un jugador / Multijugador Local y Online",
+      "idiomas": "inglés, ruso, francés, italiano, alemán, árabe, checo, húngaro, japonés, coreano, polaco, portugués brasileño, chino simplificado, español latinoamericano, tailandés, chino tradicional, turco"
+   },
+   {
+      "id": 9,
+      "poster": "./posters/9.jpg",
+      "titulo": "Red Dead Redemption 2",
+      "desarrolladores": "Rockstar Games",
+      "genero": "Acción, Aventura, Mundo Abierto, Disparos en primera y tercera persona",
+      "resumen": "Red Dead Redemption 2 es la secuela del videojuego de éxito de Rockstar Red Dead Redemption (2010), considerado como uno de los mejores títulos de la compañía. Se trata de la tercera entrega de la saga Red Dead, iniciada en 2004 con Red Dead Revolver y nos trasladará de nuevo al Salvaje Oeste para ponernos en el escenario de mundo abierto más grande jamás creado por los padres de Grand Theft Auto y contarnos una historia sobre forajidos, venganza y atracos en un escenario de gran realismo en PlayStation 4 y Xbox One. Estados Unidos, 1899. El ocaso del Salvaje Oeste ha comenzado y las fuerzas de la ley dan caza a las últimas bandas de forajidos. Los que no se rinden o sucumben, son asesinados. Tras un desastroso atraco fallido en la ciudad de Blackwater, Arthur Morgan y la banda de Van der Linde se ven obligados a huir. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la banda deberá atracar, robar y luchar, para sobrevivir en su camino por el escabroso territorio del corazón de América. Mientras las divisiones internas aumentan y amenazan con separarlos a todos, Arthur deberá elegir entre sus propios ideales y la lealtad a la banda que lo vio crecer.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "inglés, ruso, francés, italiano, alemán, árabe, checo, húngaro, japonés, coreano, polaco, portugués brasileño, chino simplificado, español latinoamericano, tailandés, chino tradicional, turco"
+   },
+   {
+      "id": 10,
+      "poster": "./posters/10.jpg",
+      "titulo": "Spiderman Miles Morales",
+      "desarrolladores": "Insomniac Games",
+      "genero": "Acción, Aventura",
+      "resumen": "La narración continúa desde Marvel's Spider-Man y su contenido descargable The City That Never Sleeps, durante el cual Miles Morales es mordido por una araña genéticamente mejorada y obtiene poderes similares a los de Peter Parker. Un año después del primer juego y su DLC, Miles se ha integrado completamente en el traje negro y rojo como un experimentado Spider-Man mientras defiende a Nueva York de una guerra de pandillas entre una corporación energética y un ejército criminal de alta tecnología. El nuevo hogar de Miles en Harlem está en el corazón de la batalla. Parker le dice a Miles que tiene que ser como su difunto padre y caminar por el camino para convertirse en un héroe para la ciudad de Nueva York.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Español, Francés, Italiano"
+   },
+   {
+      "id": 11,
+      "poster": "./posters/11.png",
+      "titulo": "The Witcher 3",
+      "desarrolladores": "CD Projekt",
+      "genero": "ARPG, Acción, Aventura",
+      "resumen": "The Witcher 3 es la tercera entrega de la saga The Witcher desarrollada por CD Projekt para PS4, Xbox One y Pc. Se trata de un videojuego que mezcla elementos de aventura, acción y rol en un mundo abierto épico basado en la fantasía. El jugador controlará una vez más a Geralt de Rivia, el afamado cazador de monstruos, (también conocido como el Lobo Blanco) y se enfrentará a un diversificadísimo bestiario y a unos peligros de unas dimensiones nunca vistas hasta el momento en la serie, mientras recorre los reinos del Norte. Durante su aventura, tendrá que hacer uso de un gran arsenal de armas, armaduras y todo tipo de magias para enfrentarse al que hasta ahora ha sido su mayor desafío, la cacería salvaje. Este videojuego ha sido galardonado como el mejor juego del año 2015 tanto por críticos especializados como por galas de premios como los “Golden Joystick Awards”, “Game Developers Choice Awards” y “The Game Awards”. Además cuenta con 2 DLC o Expansiones: Blood and wine, y Hearts of Stone.",
+      "jugadores": "Un jugador",
+      "idiomas": "Ruso, Polaco, Inglés, Árabe, Húngaro, Español, Italiano, Chino, Coreano, Alemán, Portugués, Francés, Checo, Japonés"
+   },
+   {
+      "id": 12,
+      "poster": "./posters/12.jpg",
+      "titulo": "The Legendo Of Zelda: Brath of the Wild",
+      "desarrolladores": "Nintendo",
+      "genero": "Acción, Aventura, Rol, Mundo Abierto",
+      "resumen": "Si bien la cronología de los juegos de The Legend of Zelda ha sido un aspecto que ha generado numerosas discusiones desde el origen de la franquicia,12​ los eventos de Breath of the Wild toman lugar al final de la cronología pero sin tener relación con las cronologías anteriores.13​ Diez mil años antes del comienzo del juego, Hyrule es una civilización avanzada que construyó cuatro enormes máquinas con formas de animales llamadas bestias divinas y una legión de guardianes para protegerse de Ganon.14​ Cuando Ganon regresó, fue derrotado por una princesa con la ayuda de los cuatro campeones y un caballero.15.Unos nueve mil novecientos años después, los habitantes de Hyrule se enteraron por medio de una profecía de que se avecinaba el Gran Cataclismo. La princesa Zelda entrena para despertar su poder y sellar a Ganon, Link es elegido como el portador de la Espada Maestra, mientras que Daruk, Revali, Mipha y Urbosa son elegidos para pilotar a las bestias divinas.16​ Sin embargo, Ganon ideó un plan para contrarrestar los intentos defensas, corrompiendo a todas las máquinas, matando a los campeones y diezmando al reino.17​ Link queda gravemente herido en la batalla y es llevado a una cámara de resurrección conocida como el santuario de la vida, mientras que Zelda se queda atrapada en una batalla con Ganon.18​Link despierta sin memoria después de estar cien años en la cámara en un reino post-apocalíptico devastado,19​ al salir del santuario conoce a un anciano que es el espíritu del rey Rhoam. El rey le explica que el poder de Zelda se está desvaneciendo y le ruega a Link que derrote a Ganon antes de que se libere y destruya el mundo.14​ Link viaja a través de todo Hyrule para derrotar a las manifestaciones del Cataclismo y liberar los espíritus de los campeones.17​ Después de obtener la Espada Maestra, Link se dirige al castillo de Hyrule para derrotar a Ganon con la ayuda de las bestias divinas.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 14,
+      "poster": "./posters/14.jpg",
+      "titulo": "Gta Vice City",
+      "desarrolladores": "Rockstar Games",
+      "genero": "Acción, Aventura, Mundo Abierto",
+      "resumen": "Bienvenidos a Vice City. Bienvenidos a los años ochenta. Después de un tiempo largo en seguridad máxima en Liberty City, Tommy Vercetti es enviado a Vice City por su viejo jefe, Sonny Forelli. Pero no todos aceptan fácilmente su llegada a Vice City. Tommy se queda sin dinero y sin mercancía. Sonny quiere su dinero, pero las bandas de motoqueros, cubanos, haitianos y los políticos corruptos están firmes en sus puestos. La mayoría de la gente de Vice City parece querer muerto a Tommy. Su única respuesta es luchar y tomar la ciudad para él. Vice City ofrece a los placeres vehiculares satisfacer cada gusto. Para los que les gusta la velocidad, hay automóviles de alto rendimiento y motos. Para el deportista, un bote veloz o un carro de golf te permite disfrutar del gran campo. Para esos con necesidad de sentir libertad, ¿por qué no un helicóptero para observar la belleza de Vice City desde el aire?. Para el hombre de acción, hay montones de cosas divertidas para hacer. Para el tipo callado o miedoso, Vice City está llena de sorpresas, un lugar donde tu serás constantemente sorprendido por los tipos vivaces que viven allí y las millones de cosas que puedes descubrir. Gran Theft Auto: Vice City es además la parte más diversa y ambiciosa de función interactiva que se haya creado. El juego es desarrollado por Rockstar North y es publicado por Rockstar Games.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 15,
+      "poster": "./posters/15.jpg",
+      "titulo": "Gta San Andreas",
+      "desarrolladores": "Rockstar Games",
+      "genero": "Acción, Aventura, Mundo abierto",
+      "resumen": "Hace cinco años Carl Johnson escapó de las presiones en Los Santos, San Andreas... una ciudad desgarrada por los conflictos entre bandas, las drogas y la corrupción; un lugar en la que las estrellas del celuloide y los millonarios evitan a toda costa a los camellos y pandilleros. Ahora estamos a principios de los 90. Carl ha vuelto a casa. Su madre ha sido asesinada, su familia está destrozada y sus amigos de la infancia caminan rumbo al desastre. Coincidiendo con su regreso al barrio, un par de policías corruptos le incriminan en un homicidio. CJ se ve obligado a emprender un viaje que le llevará a atravesar todo el Estado de San Andreas para salvar a su familia y hacerse con el control de las calles. Liberty City. Vice City. Y ahora, San Andreas: un nuevo capitulo de esta legendaria saga. Grand Theft Auto: San Andreas está disponible para PlayStation®2, Xbox® y PC.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Francés, Alemán, Italiano, Español"
+   },
+   {
+      "id": 16,
+      "poster": "./posters/16.jpg",
+      "titulo": "Gta IV",
+      "desarrolladores": "Rockstar Games",
+      "genero": "Acción, Aventura, Mundo abierto",
+      "resumen": "¿Qué significa hoy el Sueño Americano? Para Niko Bellic, recién salido del barco, es la esperanza de poder escapar de su pasado. Para su primo, Roman, es la visión de que juntos pueden hacer fortuna en Liberty City, la puerta a la tierra de las oportunidades. A medida que van acumulando deudas y son arrastrados a un submundo criminal por una serie de corruptos, ladrones y sociópatas, descubren que la realidad es muy diferente a ese sueño en una ciudad donde se venera el dinero y el estatus, y es el paraíso para aquellos que lo tienen y una pesadilla auténtica para el resto. Desarrollado por Rockstar North, Grand Theft Auto IV estará simultáneamente disponible para el sistema de videojuegos y entretenimiento Xbox 260® y el sistema informático de entretenimiento PLAYSTATION®3, el 29 de Abril de 2008.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 17,
+      "poster": "./posters/7.jpg",
+      "titulo": "Grand Theft Auto V",
+      "desarrolladores": "Rockstar Games",
+      "genero": "Acción, Aventura, Mundo abierto",
+      "resumen": "GTA V (Grand Theft Auto V) para PS4, PS3, Xbox One, Xbox 360 y PC es la quinta entrega numerada de la saga superventas de Rockstar Games. Se trata de una aventura de acción de mundo abierto con multitud de misiones en la que encarnamos a tres personajes distintos: Trevor, Michael y Franklin. Además, cuenta con GTA Online, el modo multijugador en lína de GTA 5. El juego sale a la venta el 17 de septiembre de 2013 para PS3 y Xbox 360, el 18 de noviembre de 2014 en PS4 y Xbox One y, por último, el 14 de abril de 2015 para PC. GTA V se ambienta en Los Santos, ciudad ficticia basada en Los Angeles. En cuanto a GTA Online, el multijugador permite hasta 30 jugadores en línea para explorar el mapeado del juego y disputar distintas misiones de forma cooperativa y/o competitiva, además de celebrarse diferentes eventos para mantener la comunidad de GTA V activa. Actualmente, se rumorea que el juego podría tener un DLC de historia (una expansión argumental) protagonizada por un nuevo personaje, aunque de momento Rockstar no se ha pronunciado.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "inglés, ruso, francés, italiano, alemán, árabe, checo, húngaro, japonés, coreano, polaco, portugués brasileño, chino simplificado, español latinoamericano, tailandés, chino tradicional, turco"
+   },
+   {
+      "id": 17,
+      "poster": "./posters/17.png",
+      "titulo": "Resident Evil 4",
+      "desarrolladores": "Capcom",
+      "genero": "Acción, Aventura, Survival Horror",
+      "resumen": "Es la cuarta entrega de la serie principal de juegos de la franquicia 'Resident Evil', además del juego más porteado a otras plataformas. En él encarnamos a Leon S. Kennedy, quien es enviado a rescatar a la hija del presidente de los Estados Unidos, Ashley Graham. Ambientado en el norte de España, 'Resident Evil 4', presenta grandes novedades: el género del juego, puesto que se aleja del survival horror para acercarse a la acción; la historia no tiene mucha relación con los hechos de Raccoon City; desaparición de los clásicos zombis y aparición de nuevos enemigos, como los ganados (aldeanos); nuevos movimientos de defensa; gran variedad de minijuegos, entre otras. Fue lanzado originalmente en Nintendo Gamecube y, poco después, comenzó su camino de porteado en PlayStation 2, entre otras consolas. Actualmente, está disponible también para PlayStation 4 y Xbox One en formato digital con motivo del 20º aniversario de la saga.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 18,
+      "poster": "./posters/18.png",
+      "titulo": "Resident Evil 7",
+      "desarrolladores": "Capcom",
+      "genero": "Acción, Aventura, Survival Horror",
+      "resumen": "El análisis de Resident Evil 7 Biohazard llega precedido de airadas discusiones. El 'survival horror' de Capcom ha cambiado la clásica perspectiva en tercera persona por una cámara subjetiva, y aún así, la compañía se vanagloria de haber recuperado la esencia de los juegos de terror tradicionales, ¿lo ha conseguido? La respuesta es un sí rotundo. Resident Evil VII Biohazard consigue que sintamos el miedo como antaño: sufrimos por la escasez de munición y hierbas curativas, recorremos los mismos escenarios una y otra vez en busca de llaves, resolvemos puzles y evitamos la persecución implacable de unos enemigos que ponen los pelos de punta. Y además, se han resuelto los problemas de control originados por el sistema de cámaras fijas.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 19,
+      "poster": "./posters/19.png",
+      "titulo": "Resident Evil 2",
+      "desarrolladores": "Capcom",
+      "genero": "Acción, Aventura, Survival Horror",
+      "resumen": "Resident Evil 2 es un juego de terror en tercera persona que lleva a 2019 el clásico de 1998. A diferencia del remake del primero, ahora se abandonan las cámaras fijas y los escenarios prerrenderizados para ofrecernos una cámara libre y entornos en tres dimensiones, así como una jugabilidad más cercana a la de la cuarta entrega, un juego que cambió Resident Evil para siempre. Se trata de una adaptación muy, muy fiel a la aventura original —más de lo que esperábamos—, por lo que los fans de la obra de Kamiya van a sentirse como en casa. Creemos que Capcom ha conseguido clavar las sensaciones que nos transmitía hace 20 años. Incluso con el cambio tan grande que ha sufrido el control, sigue apañándoselas para que sintamos esa tensión al apuntar, ese miedo a lo que aguarda en cada esquina, y ese debate continuo entre gastar una bala o correr.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 20,
+      "poster": "./posters/20.png",
+      "titulo": "Resident Evil 3",
+      "desarrolladores": "Capcom",
+      "genero": "Acción, Aventura, Survival Horror",
+      "resumen": "Jill Valentine es una de las pocas personas que quedan en Raccoon City que han sido testigos de las atrocidades de Umbrella. Para detenerla, Umbrella decide usar su arma secreta definitiva: ¡Nemesis!",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 21,
+      "poster": "./posters/21.png",
+      "titulo": "Mafia",
+      "desarrolladores": "2k Games",
+      "genero": "Acción, Aventura, Mundo Abierto",
+      "resumen": "En 1930, durante la Gran Depresión, dos miembros de la familia Salieri, Paulie Lombardo y Sam Trapani, obligan al taxista empobrecido Tommy Angelo a ayudarlos a escapar de una emboscada de la familia Morello. Aunque es compensado por su ayuda, Tommy acaba perdiendo su trabajo y su taxi al día siguiente, al ser abordado por los matones de Morello como acto de venganza. Preguntando por él a Don Ennio Salieri, Tommy acepta unirse a su organización después de recibir represalias sobre sus atacantes, y trabaja junto a Sam y Paulie para contribuir a sus estafas, supervisado por el consigliere de Salieri, Frank Colletti, que incluye protección y contrabando. A pesar de los esfuerzos de Morello para hacerse cargo de sus negocios, Tommy logra impresionar a Salieri con su esfuerzo para hacerles frente.",
+      "jugadores": "Un jugador",
+      "idiomas": "Español, Inglés, Frances, Italiano, Ruso, Alemán, Checo, Coreano, Japonés, Chino, Polaco"
+   },
+   {
+      "id": 22,
+      "poster": "./posters/22.png",
+      "titulo": "Mafia II",
+      "desarrolladores": "2k Games",
+      "genero": "Acción, Aventura, Mundo Abierto",
+      "resumen": "Segunda parte de la saga Mafia. Años 40 y 50, Empire Bay, Nueva York. Vive como un gánster en la edad de oro del crimen organizado remasterizada en HD. El héroe de guerra Vito Scaletta se une a la mafia para pagar las deudas de su padre. Junto con su amigo Joe, intentará ascender en la familia mediante crímenes de recompensas, importancia y consecuencias cada vez mayores.",
+      "jugadores": "Un jugador",
+      "idiomas": "Español, Inglés, Frances, Italiano, Ruso, Alemán, Checo, Coreano, Japonés, Chino, Polaco"
+   },
+   {
+      "id": 23,
+      "poster": "./posters/23.png",
+      "titulo": "Mafia III",
+      "desarrolladores": "2k Games",
+      "genero": "Acción, Aventura, Mundo Abierto",
+      "resumen": "El juego empieza con un comercial que presenta la ciudad donde se desarrolla la trama. Luego nos muestran un documental de 2002 sobre nuestro protagonista, en el cual entrevistan al Padre James Balland. De ahí saltamos a una grabación del comité de senado en 1971, donde interrogan a John Donovan por lo ocurrido en New Bordeaux. Y luego pasamos a un video de 1999 narrado por el ex-agente del FBI Jonathan Maguirre. La Historia toma lugar en 1968, y gira en torno a Lincoln Clay, huérfano y veterano de Vietnam. Como huérfano, su padre adoptivo, Sammy, su hermano, Ellis y su madre adoptiva Perla, son su única familia. Lincoln participa en la guerra de Vietnam y regresa a New Bordeaux para reunirse con la mafia negra. Sammy debía mucho dinero a la Familia Marcano y salda su deuda enviando a Lincoln, Ellis, Danny Burke, y al hijo de Sal Marcano, Giorgi Marcano, a robar la reserva federal. El robo resulta exitoso, pero termina con la traición de la mafia italiana asesinando a Sammy y compañía mientras incendian el establecimiento donde estaban, el Bar Sammy's. Después de sobrevivir al tiro en la cabeza por parte de Giorgi, fue rescatado del incendio por el Padre James y llevado a la iglesia St. Jerome. Clay decide fundar su propia organización criminal y obtener venganza destruyendo a los Marcano.4​ Para ello contará con la ayuda de 4 aliados: Cassandra (líder de los haitianos), Thomas Burke (padre de Danny), Vito Scaletta (protagonista de Mafia II), y su amigo Donovan (agente de la CIA). Mientras avanzas la historia, las grabaciones del principio del juego irán explicando algunos hechos importantes para la trama.",
+      "jugadores": "Un jugador",
+      "idiomas": "Español, Inglés, Frances, Italiano, Ruso, Alemán, Checo, Coreano, Japonés, Chino, Polaco"
+   },
+   {
+      "id": 24,
+      "poster": "./posters/24.jpg",
+      "titulo": "Spec Ops The Line",
+      "desarrolladores": "2k Games",
+      "genero": "Acción, Aventura, Disparos",
+      "resumen": "Seis meses antes de los eventos acontecidos en el juego, comienzan a aparecer la peor serie de tormentas de arena jamás registradas en Dubái, una de las ciudades más importantes de los Emiratos Árabes Unidos. Tanto los políticos como la élite adinerada de Dubái restó importancia en los medios a semejante pronóstico mientras evacuaban la ciudad en secreto, dejando a miles de dubaitíes tras de sí. El coronel John Konrad, condecorado héroe en horas bajas y cabeza del batallón conocido como «los Malditos del 33» del Ejército de los Estados Unidos, tras una cuestionable misión en Afganistán, decide buscar redención y defender su nombre y su honor ofreciendo como voluntarios a todo su batallón para una última misión heroica: ayudar en la evacuación de Dubái pese a la negativa de los Emiratos de aceptar ayuda internacional. Cuando las tormentas empeoraron, el Batallón 33 recibió órdenes de abandonar la ciudad, pero Konrad desobedeció y prefirió quedarse con los supervivientes atrapados. El acceso a Dubái se convirtió en una tarea imposible debido a la violencia de las tormentas, por lo que el rescate de los posibles supervivientes se descartó. Una vez que las tormentas comenzaron, la comunicación con el 33 se perdió, y tras un tiempo sin tener noticias de ellos, se les dio por muertos. Dubái es declarada tierra de nadie. Seis meses más tarde, una transmisión proveniente de Dubái atraviesa a duras penas la tormenta. Se trata de un mensaje del coronel John Konrad informando del alto número de muertes a consecuencia de las tormentas. El Ejército de los Estados Unidos decide mandar a un escuadrón Delta en misión de reconocimiento para averiguar el paradero de John Konrad y traerlo con vida.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 25,
+      "poster": "./posters/25.png",
+      "titulo": "Demon's Souls",
+      "desarrolladores": "From Software",
+      "genero": "Acción, Aventura, Rol",
+      "resumen": "Su historia tiene lugar en el ficticio reino de Boletaria, en el cual, aunque no se precisa la época en la que se encuentra, se concluye que es en la Edad Media, ya que tiene todas sus características. Su rey, el rey Allant decimosegundo, trajo gran prosperidad a su reino usando el poder de las almas y basando su reino en ellas como una moneda. Esto causó que un demonio llamado 'El Anciano', despertara de un sueño profundo en el que se encontraba. El Anciano es un ser demoníaco de un poder supuestamente inimaginable para el ser humano, según lo relatado a lo largo de la historia; también se cuenta que el dios en que creían los habitantes de boletaria era él, aunque las personas no lo supieran. Este demonio fue encerrado en un nexo ubicado supuestamente en el norte de Boletaria, lugar en donde se comienza el juego. A medida que avanza la historia se va poblando de algunos personajes que se rescataran en las aventuras que tengamos, los cuales nos ayudaran de distintas formas a lo largo de la historia; la mayoría no lo hará directamente, es decir, a lo largo de los niveles, sino enseñándonos cosas como hechizos y milagros. El objetivo central de nuestro personaje será matar cada demonio que queda en el reino de Boletaria. Estos demonios recolectan almas de todo ser vivo para dárselas al Anciano ya que este no puede recolectarlas solo debido a su encierro en el nexo; se dice que aquel que pierde su alma estando vivo pierde su mente, sus recuerdos y su humanidad convirtiéndose en una bestia violenta y sanguinaria, cada vez que un demonio sea vencido, su alma podrá ser recogida por nuestro personaje: estas sirven para aprender hechizos, milagros, y para crear armas, por lo que serán parte fundamental del juego; una vez usada en alguno de los usos anteriores se perderá y no podrá ser regresada al jugador. Una vez eliminados todos los demonios, el Antiguo hará su llamada al personaje desbloqueando el evento final del juego.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 26,
+      "poster": "./posters/26.png",
+      "titulo": "Dark Souls",
+      "desarrolladores": "From Software",
+      "genero": "Acción, Aventura, Rol",
+      "resumen": "Dark Souls tiene lugar en el reino ficticio de Lordran. Los jugadores toman el papel de un personaje humano no-muerto que ha sido elegido para realizar un peregrinaje para descubrir el destino de los no muertos. El argumento de Dark Souls se va contando fundamentalmente a través de descripciones de objetos del juego, y diálogos con personajes no jugables (PNJs). Los jugadores deben ir reuniendo pistas para poder entender la historia. Dark Souls se labró un gran reconocimiento por su extenuante dificultad e implacable desafío. El mundo de juego está lleno de armas, armaduras y objetos consumibles que tienen como objetivo ayudar al jugador durante su viaje.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 27,
+      "poster": "./posters/27.png",
+      "titulo": "Dark Souls II",
+      "desarrolladores": "From Software",
+      "genero": "Acción, Aventura, Rol",
+      "resumen": "La historia de Dark Souls II no conecta directamente con la de Dark Souls, a pesar de desarrollarse en el mismo mundo. El juego tiene lugar en Drangleic, una tierra anteriormente próspera bajo el mando del rey Vendrick, la cual ha caído en la ruina a través de los años debido a la guerra entre humanos y gigantes, la desaparición repentina del rey y una nueva plaga abismal. Al igual que otros, el protagonista ha llegado al reino desmoronado en busca de una cura para su aflicción, la maldición del no muerto.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 28,
+      "poster": "./posters/28.jpg",
+      "titulo": "Dark Souls III",
+      "desarrolladores": "From Software",
+      "genero": "Acción, Aventura, Rol",
+      "resumen": "Dark Souls 3 es la tercera entrega de la saga Dark Souls para PC, Xbox One y PS4, que combina elementos de los juegos de aventura y acción y tercera persona, con tintes de rol para mejorar a nuestro personaje. El tercer capítulo de la serie de títulos de From Software será el primero en ser desarrollado íntegramente en consolas como Xbox One y PlayStation 4. En esta nueva entrega, visitaremos el oscuro y amplio reino de Lothric, aprenderemos nuevas habilidades vinculadas a las armas que empuñemos y combatiremos contra duras y ásperas criaturas, que en esta ocasión serán más peligrosas y rápidas que nunca.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 29,
+      "poster": "./posters/29.png",
+      "titulo": "Left 4 Dead",
+      "desarrolladores": "Valve",
+      "genero": "Acción, Disparos, Terror",
+      "resumen": "Pensilvania está sufriendo un brote de 'gripe verde', un patógeno altamente contagioso que causa agresión extrema, mutación en las células del cuerpo y pérdida de funciones cerebrales superiores (esencialmente, zombificando a quienes contraen la gripe). Dos semanas después de la primera infección, cuatro sobrevivientes inmunes — William 'Bill' Overbeck, un veterano de la guerra de Vietnam; Zoey, una estudiante universitaria; Louis, un gerente de cuentas del distrito; y Francis, un motero al margen de la ley — recorren la ciudad de Fairfield, solo para descubrir que la infección está creando mutaciones más peligrosas en algunos de sus huéspedes. Después de evitar por poco a estos nuevos infectados, junto con hordas de zombis, los sobrevivientes son alertados de la presencia de un punto de evacuación en la azotea del cercano Hospital Mercy por un helicóptero de noticias que sobrevuela alrededor. Abriéndose paso a través de las calles, el metro y las alcantarillas de la ciudad, ellos son rescatados por el piloto en la azotea del hospital, solo para descubrir que él está infectado. Con Zoey viéndose obligada a matarlo, el helicóptero se estrella en un distrito industrial a las afueras de la ciudad. Al encontrar un camión de reparto blindado, los sobrevivientes lo usan para dirigirse al pueblo de Riverside. Sin embargo, ellos encuentran el camino bloqueado y recorren el resto a pie. Después de un encuentro con un delirante sobreviviente infectado en la iglesia local, descubren que el pueblo también fue invadido por lo que deciden dirigirse a una cabaña cercana al río para pedir ayuda. Logrando ponerse en contacto con un pequeño barco pesquero, los sobrevivientes llegan a la ciudad de Newburg al otro lado del río, solo para encontrar gran parte de ella en llamas. Buscando cobertura en un gran invernadero, el grupo observa un avión militar pasar por encima de ellos, lo que los lleva a viajar a través del distrito financiero de la ciudad hacia el Aeropuerto Metropolitano Internacional. Llegando, el grupo descubre que, en un intento por contener la infección, los militares han bombardeado el aeropuerto; sin embargo, la pista está en gran parte intacta, lo que permite a los sobrevivientes abastecerse de combustible y escapar en el avión militar, que se encontraba esperándolos. A pesar de este aparente rescate, el avión también se estrella, y los sobrevivientes una vez más se encuentran solos a las afueras del Bosque Nacional de Allegheny. Siguiendo una serie de vías de tren a través del área, el grupo llega a un puesto militar abandonado, pero en funcionamiento. Después de responder a una transmisión en radio, los sobrevivientes toman su última posición contra las hordas de zombis, antes de que un transporte blindado de personal llegue para transportarlos al noreste de una zona segura, implicada en ser una de las pocas áreas no infectadas del país que aún siguen en pie. Sin embargo, los sobrevivientes son llevados a una instalación militar, siendo informados de que su inmunidad se debe a que son los portadores de la infección, esparciéndola inadvertidamente por todo el mundo. Ellos son retenidos temporalmente por los militares antes de que la instalación sea invadida por los infectados. Los cuatro escapan en un tren y viajan al sur ante la insistencia de Bill, quien cree que pueden encontrar seguridad a largo plazo de los infectados en las islas de los Cayos de la Florida.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 30,
+      "poster": "./posters/30.png",
+      "titulo": "Left 4 Dead 2",
+      "desarrolladores": "Valve",
+      "genero": "Acción, Disparos, Terror",
+      "resumen": "Left 4 Dead 2 es un videojuego de disparos en primera persona cooperativo de tipo Horror de supervivencia creado por la compañía Valve. Es la secuela de Left 4 Dead y se lanzó al mercado el 17 de noviembre de 2009 en Estados Unidos y las Americas. En Europa llegó tres días después, el 20 de noviembre. Esta secuela está disponible para PC y para la consola Xbox 360. El 14 de diciembre de 2009 fue anunciado el primer contenido descargable para esta secuela: una nueva campaña llamada The Passing, que se desarrolla entre las dos primeras campañas del juego. Aquí se reúnen los protagonistas del primer Left 4 Dead (Francis, Louis y Zoey) con los sobrevivientes de esta secuela. Bill aparece sin vida, ya que se sacrificó para que los demás pudieran escapar. Salió a la luz el 22 de abril de 2010.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 31,
+      "poster": "./posters/31.jpg",
+      "titulo": "Dragon Ball Xv 2",
+      "desarrolladores": "Namco Bandai",
+      "genero": "Acción, Aventura, Rol, Anime",
+      "resumen": "El comienzo de la historia es referente a la raza que elijas, por ejemplo si elijes la raza saiyan apareces en Capsule Corporation, al igual si elijes raza de Freezer apareces en su nave. Te llamará la Kaio-shin del tiempo, y te mandará a buscar al Kaio-shin anciano, pasaras por al lado de una tienda donde un chico tiene un símbolo de pregunta con fondo rojo, tendrás que hablar con el y te dirá que vayas al recibidor. Ahí encontraras una chica que te mandara arriba del todo donde por fin lo encontraras. Cuando hablas con el llegara la Kaio-shin del tiempo y te dará dos opciones, la primera sería la del Kaio-shin anciano, que sería hacer ya la misión y la segunda sería hacer como un mini tutorial para aprender a jugar. Tras haber pasado el mini tutorial o iniciar la misión, una vez la inicias aparecerá Raditz, Son Goku y Piccolo, entonces Piccolo ataca a Raditz con su rayo de luz y a Raditz le dan una fruta y se vuelve más fuerte y lo esquiva cuando en la historia le da y muere lentamente. Entonces apareces tu y caes de forma ridícula y empiezas a pelear junto a Son Goku cuando lo derrotas Piccolo lo remata con un rayo de luz aún más potente que no puede esquivar porque Son Goku le agarra por detrás, pero lamentablemente, el también muere por salvar a la humanidad. La segunda misión trata de ayudar a Son Goku a derrotar a Vegeta y Nappa, pero primero tienes que derrotar a los Saibaman que son semillas que planta Nappa para detener a Goku. Pero de mientras tu personaje percibe una fuerza negativa entonces llega al lugar y encuentra a Turles y a Goku hablando, así que tu personaje automáticamente a pelear contra Turles",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 32,
+      "poster": "./posters/32.jpg",
+      "titulo": "Dragon Ball Kakarot",
+      "desarrolladores": "Namco Bandai",
+      "genero": "Acción, Aventura, Rol, Anime",
+      "resumen": "Dragon Ball Z: Kakarot cubre la historia de Goku y los Guerreros Z, controlados por el jugador, a través de diferentes eventos icónicos en la historia de Dragon Ball Z, que van desde el comienzo de la Saga Saiyan hasta el final de la Saga Majin Buu.​ También se añadirán nuevas historias de fondo de los personajes, no incluidas en el manga/anime original.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 33,
+      "poster": "./posters/33.png",
+      "titulo": "Sleeping Dogs",
+      "desarrolladores": "Square Enix",
+      "genero": "Acción, Aventura, Mundo Abierto",
+      "resumen": "Sleeping Dogs es un drama policíaco desarrollado por Square Enix que transcurre en un mundo abierto crudo y visceral, ambientado en la vibrante ciudad de Hong Kong. Los jugadores controlan al policía secreto Wei Shen, encargado de acabar desde dentro con una de las organizaciones criminales más temibles del mundo... las tríadas de Hong Kong.​",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 34,
+      "poster": "./posters/34.jpg",
+      "titulo": "Yakuza Zero",
+      "desarrolladores": "Sega",
+      "genero": "Acción, Disparos, Terror",
+      "resumen": "Yakuza 0 es la sexta entrega de la popular saga de acción y aventura Yakuza a cargo de Sega para PlayStation 4, PC y Xbox One. Precuela del primer Yakuza ambientada en 1988 en la que veremos a un joven Kazuma Kiryu con tan sólo 20 años cuando se encargaba de obtener las deudas del clan Tojo.​",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 35,
+      "poster": "./posters/35.png",
+      "titulo": "Yakuza Kiwami",
+      "desarrolladores": "Sega",
+      "genero": "Acción, Aventura",
+      "resumen": "1995. Kamurocho... Kazuma Kiryu, el dragón de Dojima, asume la culpa por el asesinato de un jefe del crimen organizado para proteger a su mejor amigo, Akira Nishikiyama, y a una amiga de la infancia, Yumi. 2005. Akira Nishikiyama ha cambiado, Yumi ha desaparecido y en las arcas del clan Tojo faltan 10 000 millones de yenes, lo que ha causado una guerra interna en la organización. Es un mundo totalmente irreconocible para Kazuma Kiryu. Con una jugabilidad mejorada, una historia cinemática aumentada, el retorno del estilo de combate de Yakuza 0, más garitos nocturnos y una nueva grabación del audio por el reparto original; Yakuza Kiwami es la versión definitiva y más “extrema” del juego original, ahora optimizado para PC, con resolución 4K, sin límite de cuadros por segundo, controles personalizados y compatible con pantalla ancha.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 36,
+      "poster": "./posters/36.png",
+      "titulo": "Yakuza Kiwami 2",
+      "desarrolladores": "Sega",
+      "genero": "Acción, Aventura",
+      "resumen": "Yakuza Kiwami 2 es un videojuego de acción y aventuras desarrollado y publicado por Sega. Es un remake del videojuego de 2006 Yakuza 2 para PlayStation 2, y es el segundo título de remake de la serie después de Yakuza Kiwami de 2016. Fue desarrollado usando el motor de juego Dragon de Yakuza 6.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 37,
+      "poster": "./posters/37.png",
+      "titulo": "Assassins Creed",
+      "desarrolladores": "Ubisoft",
+      "genero": "Acción, Aventura,",
+      "resumen": "Nos encontramos en el año 1191 de nuestra era. La Tercera Cruzada está desgarrando la Tierra Santa. Tú, Altair, pretendes poner fin a las hostilidades eliminando a los dos bandos del conflicto. Eres un Assassin que acecha a su presa con una hoja oculta. Un guerrero envuelto en el misterio y temido por su crueldad. Tus acciones pueden sembrar el caos en tu entorno inmediato, y tu propia existencia determinará los acontecimientos futuros durante este momento crucial de la historia.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 38,
+      "poster": "./posters/38.png",
+      "titulo": "Assassins Creed II",
+      "desarrolladores": "Ubisoft",
+      "genero": "Acción, Aventura, Mundo Abierto",
+      "resumen": "Esta entrega está ambientada en el Renacimiento, al pensar matar al papa pensado como segunda parte de una trilogía. Parte con un nuevo personaje llamado Ezio Auditore Da Firenze, un joven de clase acomodada de la sociedad de la República de Florencia. Ezio se ve envuelto en una lucha ancestral que él ni siquiera sabía que existía, al ser testigo de la ejecución de su padre y de sus dos hermanos, a causa de una conspiración de los templarios. Es acusado de traición y se ve obligado a abandonar Florencia con ayuda de Paola (jefa de las cortesanas de Florencia). Logra escapar por poco y viaja a Monteriggioni, donde es atacado por su mayor enemigo de su infancia y adolescencia: Vieri de Pazzi, hijo de Francesco de Pazzi. En esta emboscada, él, su madre y su hermana sobreviven gracias a la ayuda de un desconocido, quien después de una pequeña conversación, confiesa ser el tío de Ezio, Mario Auditore (maestro de los asesinos de Italia y jefe del gremio de mercenarios de la Toscana). Este entrena a Ezio en el arte del asesinato mientras le cuenta la historia de los asesinos y de su padre quien era un banquero, pero a su vez un miembro de la hermandad, que mantuvo alianzas con la familia más importante de Florencia hasta el momento; los Médici. Tal alianza sería reforzada por Ezio meses después. Tras unos días de arduo enfrentamiento entre Ezio y su tío sobre el tema de quedarse en Italia para proseguir la lucha de su padre o irse a España huyendo de los templarios, Ezio decide quedarse y asentarse en la Villa Auditore en Monterrigioni. Es en ese momento cuando Ezio y su tío invaden San Gimignano, en donde Ezio mata a Vieri y se va enterando de la conspiración que cobró la vida de su padre y sus dos hermanos. Así Ezio pasa el resto del juego asesinando a todos los templarios que salen en una lista que arrebató al ya muerto Vieri de Pazzi pasando por Forli, Venecia, el resto de la Toscana y conociendo a mucha gente influyente que lo ayudarán a vengarse hasta el punto en el que derrote a Rodrigo Borgia (gran maestro de la orden de los templarios). Luego de vencer a Rodrigo, el asesino ingresa en una cámara, escondida en el Vaticano, para desvelar los secretos que la sociedad tenía que transmitir, pero no a Ezio, sino a Desmond.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 39,
+      "poster": "./posters/39.png",
+      "titulo": "Assassins Creed III",
+      "desarrolladores": "Ubisoft",
+      "genero": "Acción, Aventura, Mundo Abierto",
+      "resumen": "La historia tiene lugar en la Guerra de Independencia estadounidense, alrededor del año 1750. La guerra entre Asesinos y Templarios ha sido envuelta en la Guerra de independencia estadounidense. Un joven mestizo llamado Ratonhnhaké:ton (Connor Kenway, hijo del templario Haytham Kenway, nieto del capitán pirata y asesino Edward Kenway) es atraído hacia la lucha contra la tiranía, cuando su pueblo es atacado por colonizadores. A través de la historia del juego, Connor se reunirá con personajes históricos como, George Washington, Benjamin Franklin, Thomas Jefferson, Charles Lee, Israel Putnam, Paul Revere, el Marqués de La Fayette, John Pitcairn, Samuel Adams, etc. En este juego muere Desmond después de hacerle caso a una mujer de las primeras civilizaciones; Juno, quien le dice que debe morir para salvar a la Tierra de la tormenta solar. Minerva, otra mujer de la primera civilización, intentó detener a Desmond diciéndole que muriendo salvaría a la Tierra pero liberaría a Juno, quien luego trataría de dominar la Tierra, pero Desmond, no la escucha, salva a la Tierra pero muere y libera a Juno.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 40,
+      "poster": "./posters/40.jpg",
+      "titulo": "Assassins Creed IV",
+      "desarrolladores": "Ubisoft",
+      "genero": "Acción, Aventura, Mundo Abierto",
+      "resumen": "Las muestras tomadas del cuerpo de Desmond Miles después de su muerte han permitido a Abstergo Industries seguir explorando sus memorias genéticas utilizando el Animus y las recién descubiertas habilidades de computación en nube. El personaje anónimo que controla el jugador es contratado por la división de entretenimiento de Abstergo para tamizar a través de los recuerdos de Edward Kenway, un pirata del siglo XVIII, y el abuelo de Connor Kenway. Aparentemente, se trata de reunir material para la motorización de una película interactiva del Animus, pero en realidad, Abstergo y los templarios están buscando el Observatorio, una estructura precursora que permite al usuario ver a través de los ojos de un sujeto. Como Kenway, el jugador debe desentrañar una conspiración entre los templarios de alto rango para manipular los imperios británico, español y francés a la localización de El Sabio - posteriormente identificado como Bartholomew Roberts - que es el único hombre que los puede llevar al Observatorio. En la actualidad, el jugador está en contacto con John, el administrador de tecnologías para la información de Abstergo Entertainment. John convence al jugador que su jefe le está mintiendo, y le anima a investigar con más detalle. Él se encarga que el jugador pueda acceder a la base de datos del Animus, momento en el que Juno se materializa en una forma incorpórea. Ella revela que a pesar de que era necesario abrir el Templo para evitar el desastre, el mundo no estaba preparado para ella, y ella no puede afectar o poseer al jugador como es debido. John es desenmascarado como la forma reencarnada de El Sabio y trata de asesinar al jugador para cubrir el fallido intento de resucitar a Juno, pero es eliminado por la seguridad de Abstergo antes de que lo logre. Como Roberts, El Sabio confiesa a Kenway que no le debe ninguna lealtad a los asesinos o los templarios y en su lugar utiliza lo que él cree mejor para lograr sus fines. Cuando todo termina, Kenway se retira para vivir con su hija. Años más tarde, aparece una escena final en la cual nos presenta al hijo de Edward Kenway, un chico llamado Haytham Kenway.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 41,
+      "poster": "./posters/41.png",
+      "titulo": "Need For Speed Mw",
+      "desarrolladores": "Electronic Arts",
+      "genero": "Carreras, Accion",
+      "resumen": "El protagonista llega a la gran ciudad de Rockport con un BMW E46 M3 GTR. Después aparece un Mazda RX-8 conducido por una chica llamada Mia Townsend (interpretada por Josie Maran), El Prota demuestra su valor como conductor, él sigue continuamente a Mía hasta que aparece un veterano policía llamado Cross, con un Chevrolet Corvette C6 e interrumpe su paseo para arrestarle, pero la emisora de la policía le informa sobre una carrera ilegal y tiene que irse. Las carreras parecen estar a favor del protagonista hasta que un grupo de 'tramposos' (dirigidos por el antagonista del juego, Razor) sabotean su coche, pierde la carrera, y Razor apoderándose el BMW. Después aparece la policía y arrestan al Prota pero luego es liberado bajo fianza, debido a la falta de evidencia, y con la ayuda de Mía. Luego Mía le dice al Prota que Razor ha subido hasta la primera posición en la Blacklist, y le informa acerca de sus planes para llegar hasta Razor. Entonces Mía le lleva hasta un concesionario para que compre un coche nuevo, y le dice lo que debe hacer para subir posiciones en la Blacklist (el grupo de conductores más buscados por el Departamento de Policía de Rockport). Finalmente compite contra todos ellos y los vence de uno en uno, logrando una gran reputación y adquiriendo importantes premios (como coches o dinero) hasta que llega a derrotar a Razor y recupera su BMW, pero el Sargento Cross, enterado de que el conductor escapó, quiso evitar la situación y ordenó a todas las unidades que lo persiguieran. Después de una carrera desesperada, el protagonista salta sobre un puente en construcción que conduce a la ciudad de Palmont City, logrando atravesarlo y dejando a Cross y a la policía atrás. Además de Razor, todos los miembros de la Blacklist son arrestados con la ayuda del nuevo líder de la extinta Blacklist.",
+      "jugadores": "Un jugador / 2 Jugadores",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 42,
+      "poster": "./posters/42.png",
+      "titulo": "Need For Speed",
+      "desarrolladores": "Electronic Arts",
+      "genero": "Carreras, Accion",
+      "resumen": "El juego se desarrolla en la enorme ciudad ficticia de EE.UU., Ventura Bay (que abarca una ciudad, un puerto, y varios cañones) y está conformado por cinco historias únicas entrelazadas entre sí, cargadas de acción y basadas en la jugabilidad, asegurarán variedad y que las preferencias personales se vean satisfechas. El jugador es protagonista en eventos de carreras a la máxima velocidad y adrenalina (Velocidad); podrá conducir con estilo y demostrando maniobras personales (Estilo); tiene la posibilidad de modificar y personalizar cada aspecto del vehículo hasta alcanzar la perfección (Diseño); compite en carreras grupales con el apoyo de sus amigos (Banda); y correrá en las clásicas persecuciones policiales (Forajido).",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 43,
+      "poster": "./posters/43.jpg",
+      "titulo": "Blasphemous",
+      "desarrolladores": "TGK",
+      "genero": "Acción, Aventura, Rol",
+      "resumen": "Una terrible maldición, llamada El Milagro, ha caído sobre la tierra de Cvstodia y sobre todos sus habitantes. El protagonista, a quien se denomina como el Penitente, único superviviente de la hermandad del Lamento Mudo, que lleva una máscara y un casco que consiste en una corona de espinas y un capirote metálico, se encuentra atrapado en un ciclo de penitencia donde muere y resucita constantemente, por lo que debe hacer frente a su particular via crucis y llegar al origen de su angustia, con el que no sólo acabaría con esta, también terminaría con la maldición que alberga Cvstodia. A lo largo del juego, el jugador puede adquirir ciertas habilidades especiales que le ayuden a navegar por el mapa además de luchar contra los enemigos. Si bien cuenta con una barra de salud corta, los elementos de recuperación están disponibles en forma de 'Frascos biliares', que se pueden rellenar cuando el jugador visita ciertos puntos de control en el juego. El progreso también se guarda, reviviendo en estos puntos de control cuando se vacía la barra de salud. Al visitar estos puntos de control, la salud del jugador se vuelve a llenar por completo, pero todos los enemigos previamente asesinados, excepto los jefes, se resetean, reapareciendo en el juego.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 44,
+      "poster": "./posters/44.png",
+      "titulo": "Cuphead",
+      "desarrolladores": "StudioMDHRt",
+      "genero": "Shoot 'em up, Aventura, Plataformas",
+      "resumen": "Cuphead y Mugman eran dos hermanos que vivían juntos bajo la supervisión de su abuelo, The Elder Kettle. Un día ellos entraron al casino del Diablo, el cual estaba dirigido por King Dice. Como ganan muchas partidas, El Diablo les dice que si ganan una última ronda se convertirán en dueños del casino o que de lo contrario se adueñará de sus almas. Cuphead, cegado por la ambición, aceptó el reto y perdió. Los hermanos le suplicaron al Diablo no llevarse sus almas y éste les propuso que si le llevan los contratos de sus deudores al Diablo, las conservarán. Después de haber pasado innumerables aventuras, estos llegan a la caverna del Diablo, en donde se enfrentan a los lacayos de King Dice. Tras derrotarlos, El Diablo les pregunta si quieren unirse a su equipo. Al aceptar, ambos hermanos serán convertidos en sus versiones malvadas. Al negarse, es el mismo Diablo el que reta a los personajes a otro duelo. Al derrotarlo Cuphead y Mugman queman todos los contratos de almas, así todos los habitantes de Inkwell Island vuelven a la vida y Cuphead y Mugman se convierten en los nuevos héroes del lugar.",
+      "jugadores": "Un jugador / 2 Jugadores",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 45,
+      "poster": "./posters/45.png",
+      "titulo": "Bioshock",
+      "desarrolladores": "2k Games",
+      "genero": "Aventura, Accion, Disparos en primera persona",
+      "resumen": "El juego se desarrolla en el año 1960. El avión en el que viaja el protagonista, llamado Jack, se estrella en medio del Atlántico en circunstancias desconocidas, todos los pasajeros mueren excepto él, que afortunadamente logra escapar y descubre una extraña ciudad submarina conocida como Rapture. Mientras avanza en la ciudad submarina se irá revelando la presencia de varios seres y cadáveres de humanos deformes y encontrando distintas figuras en su viaje, ambas aliadas y enemigas, como el Doctor Steinman, un cirujano psicopata y macabro, Peach Wilkins, un paranoico que se ha atrincherado en las pescaderias congeladas de Rapture, Julie Langford, una cientifica botanica de Arcadia y Sander Cohen, un artista demente y brutal que se ha encerrado en Fort Frolic. Rapture fue construida por un magnate de negocios llamado Andrew Ryan en el año 1946 con la intención de crear una ciudad para la élite mundial, una ciudad en la que habitarían los mejores artistas, científicos, ingenieros y deportistas sin estar coartados por normas o limitaciones. Esta élite podría dedicarse a vivir y a realizar sus obras sin verse sometida a las imposiciones de gobiernos, religiones y otros órganos de poder.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 46,
+      "poster": "./posters/46.png",
+      "titulo": "Bioshock 2",
+      "desarrolladores": "2k Games",
+      "genero": "Aventura, Accion, Disparos en primera persona",
+      "resumen": "BioShock 2 transcurre ocho años después de los sucesos de BioShock. Después de que Jack escapara de Rapture con algunas Little Sisters, la doctora Brigid Tenenbaum escapa de la ciudad con el resto de Little Sisters que había salvado. Las muertes de Andrew Ryan y de Frank Fontaine han dejado vacío el puesto de líder de la ciudad. Este puesto es ocupado por la doctora Sofia Lamb, enemiga política de Ryan que fue encarcelada por sus ideas en una prisión secreta, alejada de Rapture. Lamb comienza a manipular a los Splicers gracias a una secta llamada la Familia de Rapture, liderada por el padre Simon Wales. Mientras Ryan creía en el genio individual, Lamb creía en el esfuerzo colectivo, y usa frecuentemente el símbolo de una mariposa como el «renacimiento» de Rapture. En 1958 (diez años antes de que inicien los sucesos de BioShock 2, y solo dos años antes del BioShock original), el primer Big Daddy unido a una Little Sister, el sujeto Delta (Modelo Alfa), inicia su ronda con su Little Sister. Ambos pasan por una fiesta de fin de año en el complejo de lujo Adonis, y pronto la Little Sister es emboscada por cuatro splicers. Delta logra matar a dos, y deja malherida a una splicer, pero el último hipnotiza a Delta usando un plásmido. Entonces entra en escena Lamb, que había planeado el hecho para recuperar a su hija, Eleanor Lamb (la Little Sister de Delta). Aprovechando el plásmido, Sofia le ordena a Delta que se suicide disparando una pistola Luger P08 a su cabeza, en frente de la horrorizada Eleanor. Delta muere instantáneamente.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 47,
+      "poster": "./posters/47.jpg",
+      "titulo": "Bioshock Infinite",
+      "desarrolladores": "2k Games",
+      "genero": "Aventura, Accion, Disparos en primera persona",
+      "resumen": "Los sucesos del juego toman lugar en 1912. El jugador asume la identidad de Booker DeWitt, un exagente de la Agencia Nacional de Detectives Pinkerton que fue despedido de la misma por un comportamiento inaceptable. Es contratado por unos personajes misteriosos, dándole a conocer la ubicación de Columbia, se le da la tarea de infiltrarse en la ciudad flotante y rescatar a una mujer llamada Elizabeth, que ha estado atrapada a bordo de Columbia los últimos 12 años. Aunque DeWitt encuentra a Elizabeth con mucha facilidad, rápidamente descubre que Elizabeth es vital para ganar la guerra civil que asola la ciudad, ya que cada facción busca utilizar a Elizabeth para cambiar el rumbo del conflicto a su favor, obligando a DeWitt y Elizabeth a confiar en algunos con tal de escapar.8​9​ Elizabeth también trata de comprender los poderes que se le han dado, creyendo que Comstock es el responsable y se niega a dejar Columbia hasta saber la verdad.7​ Para complicar las cosas, ambos son perseguidos por Songbird, un gran pájaro robot que era amigo de Elizabeth y su guardián durante los últimos 12 años. Songbird fue diseñado por su creador para sentirse traicionado cuando Elizabeth escapara, comparable con un «marido abusivo», según Hilary Goldstein de IGN y Elizabeth señala que «Preferiría estar muerta que ser recapturada por Songbird». Además de los conflictos internos, Columbia es arrasada por los desgarres en el tejido del espacio-tiempo,14​16​ un extraño efecto brillante como es visto por DeWitt que produce un desgarro que muestra cambios momentáneos de imágenes, banderas y personas.15​ Los desgarres han traído aparentemente elementos anacrónicos dentro de la Columbia de 1912; por ejemplo en una demostración previa mostró imágenes de un reproductor de discos en un bar que tiene a una mujer cantando las letras de «Everybody Wants to Rule the World» de «Tears for Fears».​ El avance de la demostración del juego de 1UP.com en la E3 2011 indica que en un momento, DeWitt y Elizabeth se encuentran en 1983, que se hace evidente con la marquesina de un cine que muestra La venganza del Jedi (el nombre original de El regreso del Jedi), como resultado de un fallo en los poderes de Elizabeth que involucraban desgarres en el espacio-tiempo cuando ella trataba de ayudar a revivir un caballo.7​16​ Aunque el juego toma lugar mucho antes de los acontecimientos de las anteriores dos entregas (que se desarrollaron entre 1960 y 1968 respectivamente), Irrational Games no ha confirmado si BioShock Infinite compartirá el mismo universo con esos dos juegos; Ken Levine dejó la pregunta con la posibilidad de contestarla en una entrevista previa al anuncio del juego.",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 48,
+      "poster": "./posters/48.png",
+      "titulo": "Metro Last Light",
+      "desarrolladores": "4a Games",
+      "genero": "Disparos, Accion",
+      "resumen": "Ha pasado un año después de que Artyom enviara varios misiles a destruir la colmena de la raza conocida como «Los Oscuros», acabando así con la raza más misteriosa del post apocalíptico entorno en que ha quedado convertida la antigua Moscú. Parecía que la historia terminó ahí, hasta que una noticia cambia la situación. Khan, compañero de Artyom, le informa de que recientemente vio un Oscuro en un parque de la superficie el cual habría sobrevivido al ataque. Encontrar a ese ser podría cambiar el curso de los acontecimientos. Es por ello que deciden notificárselo a Miller, líder de su estación, con la esperanza de convencerlo para que les permita contactar con la criatura. Sin embargo, en lugar de eso, Miller decide enviar a Artyom junto a su hija Ana para matar al Oscuro superviviente. Cuando Khan trata de impedirlo, es apartado de la misión. Artyom es amenazado para cumplir con la misión y junto a Ana son enviados a través de los túneles de metro abandonados hasta la superficie. Una vez allí, Artyom explora la zona mientras Ana lo protege desde una posición de francotirador. Tras un enfrentamiento con algunos mutantes, Ana localiza al Oscuro y Artyom sale en su búsqueda hasta que finalmente lo atrapa. Pero entonces descubre que el Oscuro es en realidad tan solo una cría. Al entrar en contacto con la criatura, ésta se infiltra en la mente de Artyom, provocándole un estado de trance. La mente de Artyom viaja al momento en que lanzó los misiles que destruyeron el hogar de los Oscuros un año atrás y es testigo de como la onda expansiva arrasa a todos los seres mientras la joven criatura logra escapar. En ese instante Artyom despierta bruscamente al ser capturado por unos exploradores del Reich, una de las facciones humanas enfrentada al resto. Artyom es golpeado y queda inconsciente mientras tanto él como el Oscuro son trasladados a las bases del Reich en el metro. Tras despertar, Artyom descubre que está a punto de ser brutalmente interrogado junto a otros prisioneros, algunos de los cuales acaban siendo asesinados. Sin embargo gracias a la acción de uno de los prisioneros de la facción de los Rojos (enfrentada al Reich) llamado Pavel consiguen zafarse de sus captores y juntos inician una huida de las instalaciones. Tras huir del territorio del Reich, salen a la peligrosa superficie en la que se encuentran uno de los numerosos aviones devastados por la guerra, en el que Artyom tiene una visión de como acabó así. Tras derrotar a muchos enemigos consiguen llegar al Teatro, la capital cultural del Metro (como la Polis es la capital científica) en el que descansa un poco. Tras esto Pavel le envenena y le encierra, revelando que tenía un alto cargo en la Línea Roja. Tras sesiones de torturas Artyom consigue escapar del interrogatorio y encontrar, interrogar y (opcional) matar a Pavel (en ese orden).",
+      "jugadores": "Un jugador",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 49,
+      "poster": "./posters/49.jpg",
+      "titulo": "FarCry 3",
+      "desarrolladores": "Electronic Arts",
+      "genero": "Disparos en Primera persona, Accion, Mundo abierto",
+      "resumen": "El juego comienza con una cinemática mostrando al protagonista Jason Brody de vacaciones con sus amigos en Bangkok, donde deciden hacer un viaje de paracaidismo. El grupo aterriza en una isla infestada de piratas y son hechos prisioneros por su líder, Vaas Montenegro. Vaas planea extorsionar el dinero de rescate de sus padres, para luego venderlos como esclavos. Con la ayuda de su hermano mayor Grant, Jason sale de su cautiverio. Sin embargo, Grant muere junto con uno de los amigos de Jason, Vincent Salas, durante el escape. Jason es rescatado por un hombre llamado Dennis, quien forma parte de los Rakyat, los nativos de la isla Rook que sufren debido a las actividades de los piratas. Dennis reconoce el potencial de Jason como un guerrero, y le da tatuajes especiales (tatau) que le permiten acceder a sus habilidades. Impresionados con la destreza de Jason, los Rakyat le permiten ser el primer extranjero que entra a su templo sagrado, y su líder Citra (hermana de Vaas) lo inicia en la tribu. Él ejecuta una serie de misiones en las que rescata a sus amigos uno por uno (con exclusión de la novia de Grant, Daisy, quien se descubre que también escapó), mientras que al mismo tiempo ayuda a los nativos a retomar su isla, ayudado algunos veces por el Dr. Earnhardt, un hombre experto en fungi, diversos remedios naturales y drogas. A lo largo de la aventura, Jason madura en un temible guerrero y es venerado por los Rakyat, a pesar que sus viejos amigos se ven perturbados por su transformación en asesino, sobre todo cuando contempla su estancia en la isla de forma permanente para quedarse con Citra. Después de localizar y matar a Vaas, el jugador se traslada a la isla sur, controlada por Hoyt Volker, comerciante de esclavos y jefe de Vaas. Jason le jura a Citra que matará a Hoyt por lo que le hizo tanto a los isleños como a su hermano. Después de lograrlo, Jason rescata a su hermano menor Riley, regresando para encontrar la casa del Dr. Earnhardt en llamas. Busca sobrevivientes y encuentra al Dr. herido de muerte, este alcanza a mencionar que sus amigos fueron tomados por Citra y los guerreros del templo. Ella se ha enamorado absolutamente de él, viéndolo como la reencarnación del mítico ancestro guerrero de los Rakyat. Tras caminar a través de una alucinación, el jugador debe elegir si desea ejecutar a sus amigos y permanecer con Citra, o salvarlos y dejar la isla.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 50,
+      "poster": "./posters/50.jpg",
+      "titulo": "FarCry 4",
+      "desarrolladores": "Electronic Arts",
+      "genero": "Disparos en Primera persona, Accion, Mundo abierto",
+      "resumen": "Far Cry 4 se desarrolla en una región ficticia del Himalaya llamada Kyrat, un país probablemente basado en Nepal o Bután. El personaje principal del juego es Ajay Ghale, un muchacho de origen Kyratí, criado en los Estados Unidos, que viajó a Kyrat para cumplir el último deseo de su madre, Ishwari Ghale, quien quiere que sus cenizas sean 'devueltas' junto a Lakshmana. Llegando a Kyrat, el joven Ajay es interceptado por miembros del ejército real kyratí y Pagan Min en persona, el rey tirano de Kyrat quien ha instaurado en la región una especie de dictadura-monarquía y que ha logrado elevar su figura a tal punto que algunas personas de la población llegan a considerarlo como un Dios. Ajay es secuestrado por el ejército real y conducido a la mansión de Paul 'De Pleur' Harmon (uno de los tres gobernadores de Kyrat). Después de una incómoda comida con Pagan Min, Darpan (acompañante al inicio y miembro de la Senda Dorada) y De Pleur, Ajay huye del complejo guiado por Sabal, otro miembro de la Senda Dorada, quedando Darpan capturado y torturado. Ajay se las resuelve para sobrevivir en medio del ambiente salvaje de Kyrat.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 51,
+      "poster": "./posters/51.jpg",
+      "titulo": "FarCry 5",
+      "desarrolladores": "Electronic Arts",
+      "genero": "Disparos en Primera persona, Accion, Mundo abierto",
+      "resumen": "El juego se desarrolla en el condado ficticio de Hope, Montana, donde un predicador llamado Joseph Seed ha logrado prominencia en la región. Seed cree que ha sido elegido para proteger a la gente del condado de un 'colapso inevitable' y ha establecido una congregación llamada La Puerta de Edén. En realidad, Seed es un predicador radical y La Puerta del Edén es un culto militar del juicio final. Bajo su gobierno, el culto ha intentado convertir a los residentes del condado de Hope y los ha amenazado para evitar que pidan ayuda al gobierno federal. Cuando un intento de detener a Seed resulta en la muerte de varios oficiales de la ley, el jugador es arrastrado al conflicto armado entre La Puerta de Edén y los residentes restantes del condado de Hope, quienes están organizando un movimiento de resistencia. El jugador toma el papel de un alguacil de la oficina del sheriff que es enviado al condado de Hope para detener a Seed. Este predicador mantiene el control sobre el condado con la ayuda de sus hermanos, conocidos como 'los Heraldos': Jacob, un exoficial militar que supervisa a sus soldados armados; John, un abogado que ha sido capaz de adquirir gran parte de la tierra de Hope para La Puerta del Edén; Y Faith, que actúa como una pacifista para llevar al pueblo a creer en el culto y confiar en su hermano mayor. Los residentes del condado que se oponen a Seed son: el pastor Jerome, líder de la iglesia local que ha visto como su congregación ha sido controlada por La Puerta del Edén; Mary May, dueña del bar del condado cuyo padre fue asesinado por el culto; Y Nick Rye, un fumigador que quiere eliminar al culto por el bienestar de sus hijos.",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   },
+   {
+      "id": 52,
+      "poster": "./posters/52.jpg",
+      "titulo": "FarCry New Dawn",
+      "desarrolladores": "Electronic Arts",
+      "genero": "Disparos en Primera persona, Accion, Mundo abierto",
+      "resumen": "La historia se ambienta 17 años después de uno de los finales de Far Cry 5, en donde el pueblo de Hope County es destruido por una serie de explosiones nucleares. Los supervivientes de la tragedia intentan reconstruir la comunidad, mientras resisten la amenaza constante de un grupo de bandidos llamado Highwaymen, liderado por las hermanas mellizas Mickey y Lou",
+      "jugadores": "Un jugador / Multijugador Online",
+      "idiomas": "Inglés, Japones, Español, Portugués"
+   }
+]

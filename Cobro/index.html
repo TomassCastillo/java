@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="eS">
+    <head>
+        <meta charset="UTF-8">
+        <title>CASA DE CÓDIGO</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons|Roboto" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <script defe src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+        <link rel="stylesheet" href="css/estilos.css">
+        <script defer src="js/jsoncursos.js"></script>
+        <script defer src="js/administrocursos.js"></script>
+        <script defer src="js/objetoshoppingcart.js"></script>
+        <script defer src="js/checkout.js"></script>
+    </head>
+    <body>
+        <div class="center black white-text div-header z-depth-3">
+            <img src="images/cc-logo-600x100.png" width="20%" max-width="600">
+            <h5>La Suscripción de videojuegos que vos necesitás</h5>
+        </div>
+        <p align="center">Navega entre los distintos planes disponibles y elegí el que mas se adapte a lo que buscas</p>
+        <div id="cursos" class="center div-courses">
+            <h6>Planes Disponibles</h6>
+            <br>
+            <table class="responsive-table highlight">
+                <thead class="black white-text">
+                    <tr>
+                        <th>PLAN</th>
+                        <th>DESCRIPCIÓN</th>
+                        <th>DURACIÓN</th>
+                        <th>PRECIO</th>
+                        <th>AGREGAR</th>
+                    </tr>
+                </thead>
+                <tbody id="grilladecursos">
+ 
+                </tbody>
+            </table>
+        <br>
+        </div>
+        <div id="carrito" class="green center div-header">
+            <h6 id="itemscarrito"><i class="material-icons">shopping_cart</i> TOTAL DE CURSOS EN SU CARRITO: 0</h6>
+            <button class="btn-floating black yellow-text z-depth-5 btn-large waves-effect waves-light" onclick="muestroCheckout()"><i class="material-icons" alt="Ver carrito">shopping_cart</i></a>
+        </div>
+        <div id="shoppingcart" class="center div-cart hide">
+            <h5>CARRITO DE COMPRAS <span><i class="material-icons">shopping_cart</i></span></h5>
+            <br>
+            <table class="responsive-table highlight">
+                <thead class="black white-text">
+                    <tr>
+                        <th>PLAN</th>
+                        <th>DURACIÓN</th>
+                        <th class="right">IMPORTE</th>
+                    </tr>
+                </thead>
+                <tbody id="checkout">
+
+                </tbody>
+            </table>
+            <table>
+                <tbody class="grey lighten-4 black-text" id="totales">
+
+                </tbody>
+            </table>
+            <br>
+            <button id="btnvolver" class="btn blue white-text waves-effect waves-light" onclick="volverAlListadoDeCursos()"><i class="material-icons">chevron_left</i></button>
+            <button id="btnvolver" class="btn green white-text waves-effect waves-light" onclick="confirmarCompra()"><i class="material-icons">check</i></button>
+        </div>
+    </body>
+</html>
